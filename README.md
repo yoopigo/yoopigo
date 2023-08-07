@@ -17,21 +17,11 @@
 
 ## Connect with me  
 <div align="center">
-
 <a href="https://github.com/yoopigo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-
 <a href="https://t.me/Yoopigo" target="_blank">
 <img src=https://camo.githubusercontent.com/6592288288d34c7f1ec07603aba82381e34dfcdd5367a255b3b9b62b0c260c5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54472d677261793f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d2f alt=github style="margin-bottom: 5px;" />
 </a> 
-  
 </div>  
   
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yoopigo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
