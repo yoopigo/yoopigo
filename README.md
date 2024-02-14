@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://t.me/Yoopigo" target="_blank">
-<img src=https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png alt=github style="margin-bottom: 20px; width: 30px; height: 30px" />
+<img src=https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo-512x512.png alt=github style="margin-bottom: 20px; width: 30px; height: 30px" />
 </a> 
 </div>  
   
